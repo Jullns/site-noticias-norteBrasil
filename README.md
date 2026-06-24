@@ -1,6 +1,7 @@
 
 # Jornal Notícias do Norte
-https://jullns.github.io/site-noticias-norteBrasil/
+
+link: https://jullns.github.io/site-noticias-norteBrasil/
 
 Integrantes:  
 Jullia dos Santos;   
