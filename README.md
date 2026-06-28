@@ -37,7 +37,9 @@ Mariana de Andrade Lima;
 Renato Moraes Alves.
 
 # Color palette:
-<img width="2000" height="2000" alt="Logotipo Jornal Norte" src="https://github.com/user-attachments/assets/8f67a06c-fe64-4a7d-9775-c055f278575e" />
+<img width="2000" height="2000" alt="Logotipo Jornal Norte (1)" src="https://github.com/user-attachments/assets/6fae105a-9b96-4225-a380-fb13c4f8d130" />
+
+
 
 The main colors: Terracotta and clay were chosen to represent the native forest of much of the northern states, in the cerrado biome. Warm tones convey warmth and warmth. The secondary colors were chosen to transmit calm and luminosity. The blue 'water' refers to the Amazonian rivers, and the yellow 'sand' brings the touch of light and cohesion to the palette. Finally, the mixture of warm colors (red and orange) with cold colors (blue) makes up a complementary color scheme.
 
