@@ -34,7 +34,21 @@ header img{
     width: 80px;
     margin-left: 10px;
 }
+.btnTranslate{
+    background-color: #469ac9;
+    color: #ffffff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 15px;
+}
 
+.btnTranslate:hover {
+    background-color: #86463e;
+}
 
 .newsContent{
     margin-left: 70px;
