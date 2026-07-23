@@ -20,6 +20,17 @@ As cores principais: Terracota e Argila foram escolhidas para representar a mata
 
 O site busca representar a região norte de maneira verídica e fatídica, com notícias verificadas por especialistas. Estas não serão apenas voltadas a acontecimentos na esfera política e governamental, mas incluirão aspectos da cultura de todos os estados presentes na região Norte. Busca-se exaltar as expressões coletivas de comunidades e grupos minoritários da região, além de apontar para as belezas e riquezas da diversidade do cerrado, da mata atlântica e da amazônia. 
 
+# Setup & Installation
+Clone o repositório para o seu computador:
+
+`gh repo clone Jullns/site-noticias-norteBrasil`
+
+Vá para a pasta do projeto: 
+* cd site-noticias-norteBrasil
+
+Abra o arquivo principal:
+* Abra a pasta do projeto no seu editor de código (como o VS Code) e execute a extensão Live Server, ou abra o arquivo index.html direto no seu navegador favorito.
+
 Link para o wireframe:  https://www.figma.com/design/gb5Q8zRZNKniyiHnJFPWQw/Prototipa%C3%A7%C3%A3o-Site-not%C3%ADcias?node-id=126-43&t=yrHWPAoPN6rYVGef-1
 
 ------------------------------------------------------------------
@@ -46,5 +57,16 @@ The main colors: Terracotta and clay were chosen to represent the native forest 
 #  Regional representation:
 
 The site seeks to represent the northern region in a truthful and fateful manner, with news verified by experts. These will not only be focused on events in the political and governmental sphere, but will include aspects of the culture of all the states present in the North region. It seeks to exalt the collective expressions of communities and minority groups of the region, besides pointing to the beauties and riches of the diversity of the cerrado, the Atlantic forest and the amazon.
+
+# Setup & Installation
+Clone the repository to your computer:
+
+`gh repo clone Jullns/site-noticias-norteBrasil`
+
+Navigate to the project directory:
+* cd site-noticias-norteBrasil
+
+Open the main file:
+* Open the project folder in your code editor (such as VS Code) and run the Live Server extension, or open the index.html file directly in your preferred browser.
 
 Link to wireframe:  https://www.figma.com/design/gb5Q8zRZNKniyiHnJFPWQw/Prototipa%C3%A7%C3%A3o-Site-not%C3%ADcias?node-id=126-43&t=yrHWPAoPN6rYVGef-1
