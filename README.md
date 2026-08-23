@@ -1,8 +1,6 @@
 
 # Jornal Notícias do Norte
 
-link: https://jullns.github.io/site-noticias-norteBrasil/
-
 Integrantes:  
 Jullia dos Santos;   
 Kauê Castro dos Santos;  
@@ -37,8 +35,6 @@ Link para o wireframe:  https://www.figma.com/design/gb5Q8zRZNKniyiHnJFPWQw/Prot
 In English:
 
 # Journal of the North
-
-link: https://jullns.github.io/site-noticias-norteBrasil/
 
 Members:
 Jullia dos Santos;   
